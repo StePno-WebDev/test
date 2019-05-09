@@ -5,7 +5,7 @@
 		<style>
 		body {font-family: Arial, Helvetica, sans-serif;}
 
-		/* The Modal (background) $/
+		/* The Modal (background) */
 		.modal {
 		  display: none; /* Hidden by default */
 		  position: fixed; /* Stay in place */
